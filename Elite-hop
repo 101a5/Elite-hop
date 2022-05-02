@@ -4939,7 +4939,7 @@ if BF then
 	end)
 	FastTween = true
 	
-	AutoFarmTab:Toggle("Very Fast Tween ( Not Recommend For KaiTun )", false,function(a)
+	AutoFarmTab:Toggle("Very Fast Tween ( Not Recommend For KaiTun )", true,function(a)
 		FastTween = a
 	end)
 	
