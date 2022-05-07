@@ -12,8 +12,8 @@ if BF then
 			["Auto Farm Level"] = false,
 		
 			-- Setting etc
-			["Select Weapon"] = "Electric Claw",
-			["Auto Rejoin"] = false,
+			["Select Weapon"] = "Melee",
+			["Auto Rejoin"] = true,
 		
 			-- Old World
 			["Auto New World"] = false,
