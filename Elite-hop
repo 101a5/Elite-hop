@@ -12,7 +12,7 @@ if BF then
 			["Auto Farm Level"] = false,
 		
 			-- Setting etc
-			["Select Weapon"] = "Electric Claw",
+			["Select Weapon"] = "Dragon Talon",-- Electric Claw Dragon Talon
 			["Auto Rejoin"] = true,
 		
 			-- Old World
